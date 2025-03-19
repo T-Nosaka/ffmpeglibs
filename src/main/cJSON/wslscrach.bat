@@ -1,0 +1,2 @@
+wsl ./wslscratch.sh
+exit
